@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Sem dependências](https://img.shields.io/badge/depend%C3%AAncias-nenhuma-success?style=for-the-badge)
 
-<img src="docs/gameplay-abaixar.png" alt="Mario abaixado passando por baixo de uma bala" width="85%">
+<img src="./docs/gameplay-abaixar.png" alt="Mario abaixado passando por baixo de uma bala" width="85%">
 
 </div>
 
@@ -45,9 +45,15 @@
 
 <div align="center">
 
-| Tela inicial | Game Over |
-| :---: | :---: |
-| <img src="docs/tela-inicial.png" alt="Tela inicial" width="100%"> | <img src="docs/game-over.png" alt="Tela de Game Over" width="100%"> |
+**Tela inicial**
+
+<img src="./docs/tela-inicial.png" alt="Tela inicial do Mario Jump" width="80%">
+
+<br>
+
+**Game Over**
+
+<img src="./docs/game-over.png" alt="Tela de Game Over do Mario Jump" width="80%">
 
 </div>
 
