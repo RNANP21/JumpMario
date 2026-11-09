@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/script.js" defer></script>
+  <title>Mario Jump</title>
+</head>
+
+<body>
+  <main class="game-board" id="board">
+    <img src="./imagens/clouds.png" class="clouds" alt="">
+    <div class="hud">
+      <span>Pontos: <strong id="score">0</strong></span>
+      <span>Recorde: <strong id="best">0</strong></span>
+    </div>
+
+    <div class="message" id="message">
+      <h1>Mario Jump</h1>
+      <p><kbd>Espaço</kbd> / <kbd>↑</kbd> pula &nbsp;·&nbsp; segure <kbd>↓</kbd> para se abaixar</p>
+      <p class="small">No celular: toque para pular, segure a parte de baixo da tela para se abaixar</p>
+      <p>Pressione <kbd>Espaço</kbd> ou toque na tela para começar</p>
+    </div>
+
+    <img src="./imagens/pipe.png" class="obstacle pipe" alt="">
+    <img src="./imagens/bala.svg" class="obstacle bullet" alt="">
+    <img src="./imagens/mario.gif" class="mario" alt="Mario">
+  </main>
+</body>
+</html>
